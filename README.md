@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=Oth00h4RcEA
 
 ### Repositório Principal
 
-https://github.com/gabrielrizzo/agent-medical-fiap-tech-challenge-3
+https://github.com/viniciusmmartins/PosFiap-AI-TechChallange-Fase3
 
 ### Notebooks
 
