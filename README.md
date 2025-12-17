@@ -22,7 +22,7 @@ Desenvolver um assistente médico capaz de:
 
 ### Modelo de Linguagem
 
-- Modelo base: Gemma 7B (Instruct — Google)
+- Modelo base: unsloth/gemma-3-4b-it-unsloth-bnb-4bit
 - Fine-tuning:
   - Framework Unsloth
   - Quantização 4-bit (bitsandbytes)
