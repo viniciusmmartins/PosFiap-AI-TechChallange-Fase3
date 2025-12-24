@@ -96,7 +96,7 @@ O assistente opera como um agente orquestrador capaz de:
 
 ### Vídeo Demonstrativo
 
-https://www.youtube.com/watch?v=Oth00h4RcEA
+[https://www.youtube.com/watch?v=Oth00h4RcEA](https://www.youtube.com/watch?v=psLuoaVwzow)
 
 ### Repositório Principal
 
